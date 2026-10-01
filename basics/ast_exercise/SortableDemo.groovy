@@ -17,3 +17,4 @@ println people
 
 def sorted = people.sort(false /* do not mutate original collection */ )
 println sorted
+println people
